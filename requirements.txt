@@ -1,4 +1,2 @@
 openpyxl
-six
-## python2
-# configparser
+pyyaml
